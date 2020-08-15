@@ -11,7 +11,11 @@ nav {
   height: 10vh;
   background: #5b78c7;
 }
-
+.logo{
+  color: antiquewhite;
+  justify-items: left;
+  align-content: flex-start;
+}
 .nav-links {
   display: flex;
   list-style: none;
