@@ -3,21 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c6772928aa819ed8a8a332b108fccfdf",
-"assets/assets/fonts/Montserrat-Bold.ttf": "d3085f686df272f9e1a267cc69b2d24f",
-"assets/assets/fonts/Montserrat-Regular.ttf": "07689d4eaaa3d530d58826b5d7f84735",
-"assets/assets/images/lp_image.png": "5aad4d4216174954f5228d7d268546e8",
-"assets/FontManifest.json": "1a726564c73eb44d252c69c6eb91fd93",
+  "assets/AssetManifest.json": "b4d8bfd922da5c9dc6b7aa290d11680a",
+"assets/assets/fonts/OpenSans-ExtraBold.ttf": "fb7e3a294cb07a54605a8bb27f0cd528",
+"assets/assets/fonts/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
+"assets/assets/logo.png": "e92d75da68b0db510c0ce50855b2de47",
+"assets/FontManifest.json": "2a69ce04a1cd18341f63e2d3c53ed7ca",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "41317ea677792f09d81a8aa71b0dc852",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a677ae1cf63c5dff14d637c8c766bc73",
-"/": "a677ae1cf63c5dff14d637c8c766bc73",
-"main.dart.js": "3512d6e1643008be85fdedfc22c31483",
-"version.json": "8e0437037c04fad632d5cd5bc426da8b"
+"assets/NOTICES": "4dcf9dcf5d0cd7535b373eab54319c7f",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"index.html": "5af89a181089aef313374093e4b4ffb6",
+"/": "5af89a181089aef313374093e4b4ffb6",
+"main.dart.js": "a4a448dce542036ad2aa192f42c66b4c",
+"version.json": "7d4ce7615b8a4d80fe27fdd171423cf4"
 };
 
 // The application shell files that are downloaded before a service worker can
